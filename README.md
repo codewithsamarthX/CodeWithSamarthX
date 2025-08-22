@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey, I'm Samarth Nagpure</h1>
-<h3 align="center">Founder @ <strong>CodeWithSamarthX</strong> | Java Developer | AI & Bot Builder | Yeola / Nashik, India</h3>
+<h3 align="center">🚀 Founder of <strong>CodeWithSamarthX</strong> | 💻 Java Developer | 🤖 AI & Bot Builder | 📍 Yeola / Nashik, India</h3>
 
 <p align="center">
-  🚀 20-year-old developer crafting <b>real-world apps, smart bots & AI tools</b><br>
+  20-year-old developer passionate about <b>real-world apps, smart bots & AI tools</b>.<br>
   ✨ Fueled by <i>code, travel & freedom</i> — chasing sunsets 🌅 and exploring mountains 🏔️
 </p>
 
@@ -37,19 +37,18 @@
 ## 📊 GitHub Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithsamarthX&theme=tokyonight&hide_border=true&show_icons=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=codewithsamarthX&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsamarthX&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithsamarthX&theme=dark&hide_border=false&show_icons=true&rank_icon=github" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=codewithsamarthX&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsamarthX&layout=compact&theme=dark&hide_border=false" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-- 🔭 **Currently Building:** `CodeWithSamarthX` — smart projects, bots & dev tools  
+- 🧪 **Currently Building:** `CodeWithSamarthX` — smart projects, bots & dev tools  
 - 💡 **Core Skills:** Java, Python, AI automation, chatbot systems  
 - 🎯 **Focus:** Creating seamless user experiences powered by AI  
 - ✈️ **Beyond Code:** Solo traveler, sunset chaser & mountain lover  
