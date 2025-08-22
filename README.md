@@ -1,10 +1,9 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#E63946;">Samarth Nagpure</span></h1>
-<h3 align="center">🚀 Founder of <strong>CodeWithSamarthX</strong> | 💻 Java Developer | 🤖 AI & Bot Builder | 📍 Yeola / Nashik, India</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#E63946;">Samarth Nagpure</span></h1>
+<h3 align="center">Founder @ <strong>CodeWithSamarthX</strong> | Java Developer | AI & Bot Builder | Yeola / Nashik, India</h3>
 
 <p align="center">
-  <em>20-year-old developer passionate about crafting real-world apps, smart bots & AI-powered tools.</em><br>
-  <strong>"Code. Travel. Grow. Repeat."</strong> ✨<br>
-  When I’m not coding, I’m chasing sunsets 🌅 or riding toward freedom on open roads 🛣️
+  🚀 20-year-old developer crafting <b>real-world apps, smart bots & AI tools</b><br>
+  ✨ Fueled by <i>code, travel & freedom</i> — chasing sunsets and exploring mountains 🏔️
 </p>
 
 ---
@@ -30,26 +29,26 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithsamarthX&theme=radical&hide_border=true&show_icons=true&rank_icon=github" height="165" />
-  <img src="https://streak-stats.demolab.com?user=codewithsamarthX&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithsamarthX&theme=tokyonight&hide_border=true&show_icons=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=codewithsamarthX&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsamarthX&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsamarthX&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-- 🧪 **Currently Building:** `CodeWithSamarthX` — smart projects, bots & dev tools  
-- 💼 **What I Do:** Real-world apps using Java, Python & Web Tech  
-- 🤖 **Focus Areas:** AI automation, chatbots & seamless UX  
+- 🔭 **Currently Building:** `CodeWithSamarthX` — smart projects, bots & dev tools  
+- 💡 **Core Skills:** Java, Python, AI automation, chatbot systems  
+- 🎯 **Focus:** Creating seamless user experiences powered by AI  
 - ✈️ **Beyond Code:** Solo traveler, sunset chaser & mountain lover  
-- 📚 **Life Mantra:** *Keep learning, keep exploring, keep building*  
+- 💬 **Philosophy:** *Keep building. Keep exploring. Keep growing.*  
 
 ---
 
