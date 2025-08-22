@@ -1,61 +1,58 @@
-<h1 align="center">Hey there! I'm Samarth Nagpure 👋</h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#E63946;">Samarth Nagpure</span></h1>
 <h3 align="center">🚀 Founder of <strong>CodeWithSamarthX</strong> | 💻 Java Developer | 🤖 AI & Bot Builder | 📍 Yeola / Nashik, India</h3>
 
 <p align="center">
-  <strong>20 y/o developer passionate about building real-world apps, smart bots, and AI tools.</strong><br>
-  When I’m not coding, I’m chasing sunsets and riding toward freedom on open roads.
+  <em>20-year-old developer passionate about crafting real-world apps, smart bots & AI-powered tools.</em><br>
+  <strong>"Code. Travel. Grow. Repeat."</strong> ✨<br>
+  When I’m not coding, I’m chasing sunsets 🌅 or riding toward freedom on open roads 🛣️
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/samarthnagpure" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://instagram.com/itx_samarth_56" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,react,nodejs,tailwind" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithsamarthX&theme=dark&hide_border=false&show_icons=true&rank_icon=github" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=codewithsamarthX&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsamarthX&layout=compact&theme=dark&hide_border=false" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithsamarthX&theme=radical&hide_border=true&show_icons=true&rank_icon=github" height="165" />
+  <img src="https://streak-stats.demolab.com?user=codewithsamarthX&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsamarthX&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🧪 **Building:** `CodeWithSamarthX` — smart projects, bots, and dev tools  
-- 💼 **What I Do:** Build real-world apps with Java, Python, and web tech  
-- 🤖 **Focus:** AI automation, intelligent bots, and beautiful user experiences  
-- ✈️ **Beyond Code:** Solo traveler, sunset chaser, and mountain lover  
-- 📚 **Philosophy:** *Code. Travel. Grow. Repeat.*
+- 🧪 **Currently Building:** `CodeWithSamarthX` — smart projects, bots & dev tools  
+- 💼 **What I Do:** Real-world apps using Java, Python & Web Tech  
+- 🤖 **Focus Areas:** AI automation, chatbots & seamless UX  
+- ✈️ **Beyond Code:** Solo traveler, sunset chaser & mountain lover  
+- 📚 **Life Mantra:** *Keep learning, keep exploring, keep building*  
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=codewithsamarthX&icon=0&color=0" alt="Visitor Count"/>
+  <img src="https://visitcount.itsvg.in/api?id=codewithsamarthX&icon=0&color=3" alt="Visitor Count"/>
 </p>
