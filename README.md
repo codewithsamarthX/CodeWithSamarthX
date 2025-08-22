@@ -1,27 +1,32 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#E63946;">Samarth Nagpure</span></h1>
+<h1 align="center">👋 Hey, I'm Samarth Nagpure</h1>
 <h3 align="center">Founder @ <strong>CodeWithSamarthX</strong> | Java Developer | AI & Bot Builder | Yeola / Nashik, India</h3>
 
 <p align="center">
   🚀 20-year-old developer crafting <b>real-world apps, smart bots & AI tools</b><br>
-  ✨ Fueled by <i>code, travel & freedom</i> — chasing sunsets and exploring mountains 🏔️
+  ✨ Fueled by <i>code, travel & freedom</i> — chasing sunsets 🌅 and exploring mountains 🏔️
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/samarthnagpure" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/itx_samarth_56" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:samarthnagpure47@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,react,nodejs,tailwind" />
@@ -29,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Highlights
+## 📊 GitHub Highlights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewithsamarthX&theme=tokyonight&hide_border=true&show_icons=true" height="160" />
@@ -42,7 +47,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
 - 🔭 **Currently Building:** `CodeWithSamarthX` — smart projects, bots & dev tools  
 - 💡 **Core Skills:** Java, Python, AI automation, chatbot systems  
